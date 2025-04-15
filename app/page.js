@@ -82,8 +82,17 @@ const HomePage = () => {
 
       <StatsSection />
 
-      <section className="mt-5 md:mt-28">
-        <div className="w-[90%] mx-auto flex flex-col-reverse lg:flex-row items-center">
+      <section className="mt-5 lg:mt-28">
+        <div className="w-[90%] mx-auto flex flex-col lg:flex-row items-center">
+        <div className="w-full lg:w-1/2 lg:h-96 mb-10 lg:mb-0">
+            <Image
+              src="/images/about.svg"
+              width={400}
+              height={300}
+              alt="about-img"
+              className="w-full h-full"
+            />
+          </div>
           <div className="w-full lg:w-1/2 pr-1">
             <SectionHeading
               align="text-left"
@@ -106,15 +115,6 @@ const HomePage = () => {
             >
               Let’s Connect
             </button>
-          </div>
-          <div className="w-full lg:w-1/2 lg:h-96">
-            <Image
-              src="/images/about.svg"
-              width={800}
-              height={300}
-              alt="about-img"
-              className="w-full h-full"
-            />
           </div>
         </div>
       </section>
@@ -212,9 +212,9 @@ const HomePage = () => {
               {[
                 {
                   label: "Email",
-                  text: "pankajtechno17@gmail.com",
+                  text: "ramanhuf.mehta29@gmail.com",
                   colors: "bg-rose-500/20 text-rose-500",
-                  href: "mailto:pankajtechno17@gmail.com",
+                  href: "mailto:ramanhuf.mehta29@gmail.com",
                   icon: "ri-mail-send-line",
                 },
                 {

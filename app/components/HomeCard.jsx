@@ -4,14 +4,6 @@ import StickyCards from "./StickyCards";
 const HomeCard = () => {
   const data = [
     {
-      title: "Bankrate",
-      link: "https://www.bankrate.com/",
-      img: "/images/websites/bankrate.webp",
-      description:
-        "Financial guidance platform offering expert advice on mortgages, credit cards, loans, and personal finance.",
-      tech: ["NextJS"],
-    },
-    {
       title: "Dextall",
       link: "https://www.dextall.com/",
       img: "/images/websites/dextail.webp",
@@ -20,12 +12,12 @@ const HomeCard = () => {
       tech: ["Webflow", "ThreeJs"],
     },
     {
-      title: "Estatemate",
-      link: "https://www.estatemate.co.za/",
-      img: "/images/websites/estatemate.webp",
+      title: "Bankrate",
+      link: "https://www.bankrate.com/",
+      img: "/images/websites/bankrate.webp",
       description:
-        "A property management platform for homeowners and communities in South Africa, streamlining communication and maintenance.",
-      tech: ["ReactJS"],
+        "Financial guidance platform offering expert advice on mortgages, credit cards, loans, and personal finance.",
+      tech: ["NextJS"],
     },
     {
       title: "Dollar-Shave-Club",
@@ -34,6 +26,14 @@ const HomeCard = () => {
       description:
         "Subscription-based grooming brand providing razors, shaving products, and personal care essentials.",
       tech: ["Shopify"],
+    },
+    {
+      title: "Estatemate",
+      link: "https://www.estatemate.co.za/",
+      img: "/images/websites/estatemate.webp",
+      description:
+        "A property management platform for homeowners and communities in South Africa, streamlining communication and maintenance.",
+      tech: ["ReactJS"],
     },
     {
       title: "Hiring-Hub",
@@ -52,20 +52,20 @@ const HomeCard = () => {
       tech: ["Laravel"],
     },
     {
-      title: "Patient10x",
-      link: "https://www.patient10x.com/",
-      img: "/images/websites/patient.webp",
-      description:
-        "Healthcare growth platform helping medical businesses enhance patient acquisition and engagement.",
-      tech: ["Webflow"],
-    },
-    {
       title: "Provideofactory",
       link: "https://provideofactory.com/",
       img: "/images/websites/provideofactory.webp",
       description:
         "Video production service creating marketing and explainer videos for businesses.",
       tech: ["Laravel"],
+    },
+    {
+      title: "Patient10x",
+      link: "https://www.patient10x.com/",
+      img: "/images/websites/patient.webp",
+      description:
+        "Healthcare growth platform helping medical businesses enhance patient acquisition and engagement.",
+      tech: ["Webflow"],
     },
     {
       title: "Rapid Clean",
@@ -76,20 +76,20 @@ const HomeCard = () => {
       tech: ["Woocommerce", "WordPress", "PHP"],
     },
     {
-      title: "Storyblocks",
-      link: "https://www.storyblocks.com/",
-      img: "/images/websites/storyblocks.webp",
-      description:
-        "Subscription-based stock media platform offering royalty-free videos, images, and audio.",
-      tech: ["Laravel"],
-    },
-    {
       title: "Unibuddy",
       link: "https://unibuddy.com/",
       img: "/images/websites/unibuddy.webp",
       description:
         "Student engagement platform connecting prospective students with university ambassadors for guidance.",
       tech: ["ReactJS"],
+    },
+    {
+      title: "Storyblocks",
+      link: "https://www.storyblocks.com/",
+      img: "/images/websites/storyblocks.webp",
+      description:
+        "Subscription-based stock media platform offering royalty-free videos, images, and audio.",
+      tech: ["Laravel"],
     },
   ];
 
