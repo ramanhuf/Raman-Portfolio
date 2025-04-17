@@ -73,12 +73,6 @@
     "workheading": "Shopify",
     "projects": [
       {
-        "projectname": "Dollar-Shave-Club",
-        "projectdescription": "A subscription-based grooming brand offering high-quality razors, shaving essentials, and personal care products for men.",
-        "projecturl": "https://us.dollarshaveclub.com/",
-        "projectimage": "/images/websites/events.webp"
-      },
-      {
         "projectname": "Skinology-Aesthetics",
         "projectdescription": "A premier skincare and beauty clinic providing luxury facial treatments and aesthetic services for rejuvenated skin.",
         "projecturl": "https://skinology-aesthetics.myshopify.com/",
@@ -166,12 +160,6 @@
   {
     "workheading": "Wordpress",
     "projects": [
-      {
-        "projectname": "Hiring-Hub",
-        "projectdescription": "An online recruitment platform connecting employers with independent recruiters to simplify the hiring process.",
-        "projecturl": "https://www.hiring-hub.com/",
-        "projectimage": "/images/websites/hiring-hub.webp"
-      },
       {
         "projectname": "Rapid-Clean",
         "projectdescription": "A leading supplier of commercial cleaning products, equipment, and hygiene solutions for various industries.",

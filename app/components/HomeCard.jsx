@@ -20,28 +20,12 @@ const HomeCard = () => {
       tech: ["NextJS"],
     },
     {
-      title: "Dollar-Shave-Club",
-      link: "https://us.dollarshaveclub.com/",
-      img: "/images/websites/events.webp",
-      description:
-        "Subscription-based grooming brand providing razors, shaving products, and personal care essentials.",
-      tech: ["Shopify"],
-    },
-    {
       title: "Estatemate",
       link: "https://www.estatemate.co.za/",
       img: "/images/websites/estatemate.webp",
       description:
         "A property management platform for homeowners and communities in South Africa, streamlining communication and maintenance.",
       tech: ["ReactJS"],
-    },
-    {
-      title: "Hiring-Hub",
-      link: "https://www.hiring-hub.com/",
-      img: "/images/websites/hiring-hub.webp",
-      description:
-        "Online recruitment marketplace connecting employers with independent recruitment agencies.",
-      tech: ["WordPress", "PHP", "Woocommerce"],
     },
     {
       title: "King-Realty-Group",
